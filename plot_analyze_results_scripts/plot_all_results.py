@@ -85,6 +85,7 @@ def main():
 	for workflow in workflows:
 		plot_simulator_sophistication.plot_simulator_sophistication_dfbs(plot_path, workflow.split("-")[0], result_dicts, [workflow], platforms)
 
+
 # MAIN
 if __name__ == "__main__":
 	try:
