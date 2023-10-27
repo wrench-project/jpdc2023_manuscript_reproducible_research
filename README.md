@@ -1,8 +1,8 @@
 # Reproducible Research for JPDC submission
 
 This repository contains data, scripts, and code for making the research in the
-_On the Feasibility of Simulation-driven Portfolio Scheduling for
-Cyberinfrastructure Runtime Systems_ manuscript by McDonald et al. 
+_Evaluating the Potential Merit of Simulation-driven Portfolio Scheduling
+for Cyberinfrastructure Runtime Systems_ manuscript by McDonald et al. 
 (submitted for publication to JPDC) reproducible.
 
 All result plots used in the manuscript (and others that were omitted due to lack of space) are
